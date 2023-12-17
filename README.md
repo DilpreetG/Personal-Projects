@@ -12,4 +12,8 @@ This project is a network subnetting calculator designed to assist in IP address
 
 The code provided here is a simplified version designed to display in the shell of an IDE, the actual code soon-to-be used on my personal website will be modified for deployment. The calculator helps in understanding network configurations and is a practical tool for network engineers and enthusiasts.
 
-Feel free to explore and contribute to the project! Stay tuned for future updates and improvements.
+## ChatGPT String Slicer
+
+Introducing a dynamic solution for overcoming character limits when interacting with ChatGPT! This Python script takes a text string as input, intelligently slices it into manageable chunks, and stores each segment in separate text files within a designated directory. This tool simplifies the process of feeding lengthy text into ChatGPT, showcasing my ability to develop practical solutions for real-world challenges. Feel free to explore, adapt, and integrate this script into your workflow!
+
+Feel free to explore and contribute to any of the projects! Stay tuned for future updates and improvements.
